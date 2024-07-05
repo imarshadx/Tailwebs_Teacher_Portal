@@ -52,7 +52,7 @@ if(isset($_POST["username"])) {
 
 <form method="post">
   <div class="form-group">
-    <label for="username">Username</label>
+    <label for="username">Username </label>
     <div class="input-group">
       <div class="input-group-prepend">
         <span class="input-group-text"><i class="fas fa-user"></i></span>
