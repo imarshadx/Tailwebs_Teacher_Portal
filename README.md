@@ -20,3 +20,5 @@ CREATE TABLE students (
     marks VARCHAR(100),
     timestamp INT(50)
 );
+
+Update database details in database.php file inside root folder.
